@@ -1,0 +1,10 @@
+{
+  "name": "TypeScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "KIM",
+  "dependencies": {
+    "@types/moment": "^2.13.0",
+    "moment": "^2.24.0"
+  }
+}
